@@ -1,6 +1,6 @@
 # ============================================== 基本配置开始
 # 数据源配置
-cyz: gogogogogo----from dev
+cyz: 777777777777777777777777777777777777777777
 spring:
   datasource:
       type: com.alibaba.druid.pool.DruidDataSource
